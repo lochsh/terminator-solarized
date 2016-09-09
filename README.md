@@ -1,3 +1,8 @@
+My terminator  config file, forked from terminator-solarized.  Now includes 
+kolor colour scheme.  Includes fonts.
+
+
+
 # Solarized terminator colors
 
 A color theme for [terminator](http://www.tenshu.net/terminator/) using Ethan Schoonover’s [Solarized color scheme](http://ethanschoonover.com/solarized).
