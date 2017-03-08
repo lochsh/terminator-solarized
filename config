@@ -1,18 +1,24 @@
 [global_config]
   focus = system
   title_transmit_bg_color = "#7eaefd"
+  always_split_with_profile = True
 
 [keybindings]
+  new_tab = <Primary>t
+  next_tab = <Primary>Tab
+
 [layouts]
   [[default]]
     [[[child1]]]
       parent = window0
-      profile = solarized-dark
+      profile = kolor
       type = Terminal
     [[[window0]]]
       parent = ""
       type = Window
+
 [plugins]
+
 [profiles]
   [[default]]
     background_image = None
